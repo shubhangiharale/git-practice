@@ -1,2 +1,1 @@
-my first git practice 
-today I am practicing git and github
+I am learning git commands step by step
