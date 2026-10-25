@@ -1,1 +1,4 @@
 I am learning git commands step by step
+my first git practice 
+today I am practicing git and Github
+I am learning git commands step by step
