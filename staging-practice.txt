@@ -1,1 +1,2 @@
 "Git staging practice" 
+"Second line added" 
